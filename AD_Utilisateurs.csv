@@ -1,0 +1,11 @@
+﻿Prenom;Nom;Fonction;Telephone Bureau;Email;OU;MDP
+Gaspar;Villeneuve;Directeur;101;gaspar.villeneuve@agence-web.fr;OU=UsersLAB,DC=test,DC=lab,DC=com;P@ssw0rd
+Paul;Aupry;Assistant de  Direction;102;paul.aupry@agence-web.fr;OU=UsersLAB,DC=test,DC=lab,DC=com;P@ssw0rd
+Bernadette;Gougeon;Web Designer;103;bernadette.gougeon@agence-web.fr;OU=UsersLAB,DC=test,DC=lab,DC=com;P@ssw0rd
+Raymond;Renaud;Comptable;104;raymond.renaud@agence-web.fr;OU=UsersLAB,DC=test,DC=lab,DC=com;P@ssw0rd
+Victor;Rouleau;Secrétaire;105;victor.rouleau@agence-web.fr;OU=UsersLAB,DC=test,DC=lab,DC=com;P@ssw0rd
+Sidney;Riquier;Administrateur Système;106;sidney.riquier@agence-web.fr;OU=UsersLAB,DC=test,DC=lab,DC=com;P@ssw0rd
+Claire;Morneau;Experte SEO;107;claire.morneau@agence-web.fr;OU=UsersLAB,DC=test,DC=lab,DC=com;P@ssw0rd
+Nathalie;Huard;Administratrice Système;108;nathalie.huard@agence-web.fr;OU=UsersLAB,DC=test,DC=lab,DC=com;P@ssw0rd
+Maurice;Sirois;Chef de Projet;109;maurice.sirois@agence-web.fr;OU=UsersLAB,DC=test,DC=lab,DC=com;P@ssw0rd
+Édouard;Sauriol;Stagiaire;110;edouard.sauriol@agence-web.fr;OU=UsersLAB,DC=test,DC=lab,DC=com;P@ssw0rd
