@@ -6,3 +6,4 @@
 - Exemple Domain Name = test.lab.com
 - distinguishedName = OU=UsersLAB,DC=test,DC=lab,DC=com
 - Exemple Unité Organisationnelle = UsersLAB
+
