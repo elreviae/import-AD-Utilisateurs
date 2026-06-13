@@ -1,0 +1,31 @@
+﻿Prenom;Nom;Fonction;Telephone Bureau;Email;OU;MDP
+Raymond;Renaud;Comptable;104;raymond.renaud@company.com;OU=Compta,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Sarah;Guillot;Comptable Clients;122;sarah.guillot@company.com;OU=Compta,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Julien;Barbier;Comptable Unique;111;julien.barbier@company.com;OU=Compta,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Léa;Rousseau;Contrôleur de Gestion;116;lea.rousseau@company.com;OU=Compta,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Elodie;Masson;Gestionnaire de Paie;128;elodie.masson@company.com;OU=Compta,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Paul;Aupry;Assistant de  Direction;102;paul.aupry@company.com;OU=Direction,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Gaspar;Villeneuve;Directeur;101;gaspar.villeneuve@company.com;OU=Direction,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Alexandre;Mathieu;Directeur Financier;121;alexandre.mathieu@company.com;OU=Direction,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Emma;Lefebvre;Responsable RH;110;emma.lefebvre@company.com;OU=Direction,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Manon;Royer;Assistante RH;118;manon.royer@company.com;OU=Secretariat,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Victor;Rouleau;Secrétaire;105;victor.rouleau@company.com;OU=Secretariat,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Sophie;Marois;Secrétaire Comptable;112;sophie.marois@company.com;OU=Secretariat,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Arthur;Fontaine;Secrétaire de Direction;125;arthur.fontaine@company.com;OU=Secretariat,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Alice;Dubreuil;Secrétaire Standardiste;130;alice.dubreuil@company.com;OU=Secretariat,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Chloé;Picard;Community Manager;114;chloe.picard@company.com;OU=Service-Web,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Mathieu;Colin;Développeur Front-End;127;mathieu.colin@company.com;OU=Service-Web,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Thomas;Dumont;Développeur Fullstack;113;thomas.dumont@company.com;OU=Service-Web,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Claire;Morneau;Experte SEO;107;claire.morneau@company.com;OU=Service-Web,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Camille;Chevalier;Product Owner;120;camille.chevalier@company.com;OU=Service-Web,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Julie;Lemaire;UI/UX Designer;124;julie.lemaire@company.com;OU=Service-Web,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Bernadette;Gougeon;Web Designer;103;bernadette.gougeon@company.com;OU=Service-Web,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Guillaume;Perrin;Administrateur Base de Données;119;guillaume.perrin@company.com;OU=Tech-Adminsys,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Sidney;Riquier;Administrateur Système;106;sidney.riquier@company.com;OU=Tech-Adminsys,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Nathalie;Huard;Administratrice Système;108;nathalie.huard@company.com;OU=Tech-Adminsys,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Mathilde;Vidal;Analyste Cyber;126;mathilde.vidal@company.com;OU=Tech-Adminsys,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Maxime;Gauthier;Ingénieur Réseau;115;maxime.gauthier@company.com;OU=Tech-Adminsys,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Florent;Marchand;Ingénieur Sécurité;129;florent.marchand@company.com;OU=Tech-Adminsys,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Nicolas;Brunet;Technicien Helpdesk;123;nicolas.brunet@company.com;OU=Tech-Adminsys,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Antoine;Fleury;Technicien Réseau;117;antoine.fleury@company.com;OU=Tech-Adminsys,OU=SERVICES,DC=home,DC=com;P@ssw0rd
+Lucas;Martineau;Technicien Support;109;lucas.martineau@company.com;OU=Tech-Adminsys,OU=SERVICES,DC=home,DC=com;P@ssw0rd
