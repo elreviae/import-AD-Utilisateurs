@@ -4,6 +4,10 @@
 
 ---
 
+🤖 **Automation scripts for managing Active Directory users**
+
+---
+
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1%20%20%7C%20%207.x-blue?style=for-the-badge&logo=powershell&logoColor=white)](https://microsoft.com/powershell)
 [![Windows Server](https://img.shields.io/badge/Windows%20Server-2019%20%20%7C%20%202022%20%20%7C%20%202025-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://microsoft.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
@@ -23,7 +27,7 @@ Ce dépôt contient deux scripts PowerShell conçus pour automatiser et sécuris
 
 ## 📋 Structure du fichier source (CSV ou Excel)
 
-Le fichier doit impérativement contenir les colonnes suivantes :
+Le fichier doit impérativement contenir les colonnes suivantes (Exemple):
 
 | Prenom | Nom | Fonction | Telephone Bureau | Email | OU | MDP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -32,7 +36,7 @@ Le fichier doit impérativement contenir les colonnes suivantes :
 > ⚠️ **Important** : La colonne `OU` doit contenir le chemin LDAP complet (*Distinguished Name*) de l'Unité Organisationnelle cible.
 
 ## 🛠️ Prérequis
-
+- **Modifier les fichiers sources CSV ou XLSX en fonction de la structure de l'A.D cible.**
 - Exécuter PowerShell en tant qu'**Administrateur**.
 - Être positionné sur un poste membre du domaine (ou avec une connexion VPN active).
 - Outils **RSAT Active Directory** installés (le script tentera de charger le module).
