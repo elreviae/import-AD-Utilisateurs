@@ -40,7 +40,7 @@ Le fichier doit impérativement contenir les colonnes suivantes :
 
 ## 💻 Utilisation
 
-1. Placez votre fichier source (`ImportAD_OU_Users.csv` ou `ImportAD_OU_Users_EXCEL.xlsx`) dans le même dossier que les scripts.
+1. Placez votre fichier source (`ImportAD_OU_Users_CSV.csv` ou `ImportAD_OU_Users_EXCEL.xlsx`) dans le même dossier que les scripts.
 2. Ouvrez une console PowerShell en Administrateur.
 3. Lancez le script correspondant à votre besoin :
 

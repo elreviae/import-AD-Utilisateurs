@@ -57,7 +57,7 @@ $timeStamp = $(Get-Date -format dd-MM-yyyy-HHmm)
 # Chemin fichier de log. "$PSScriptRoot" pointe vers le répertoire du script
 $logFile = "$PSScriptRoot\ImportUserADLog_$timeStamp.txt" 
 
-$CSVFile = "ImportAD_OU_Users.csv"
+$CSVFile = "ImportAD_OU_Users_CSV.csv"
 
 # Vérification si le chemin vers le fichier CSV est valide
 # Si le chemin du fichier n'est pas valide, sortie du script.
